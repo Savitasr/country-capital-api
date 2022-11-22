@@ -18,7 +18,7 @@ We're on [Gitter](https://gitter.im/TheAlgorithms)! Come join us.
 ## Algorithms
 Our [directory](DIRECTORY.md) has the full list of applications.
 
-Markdown: Syntax
+# Markdown: Syntax
 ================
 *   [Overview](#overview)
     *   [Philosophy](#philosophy)
