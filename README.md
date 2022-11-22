@@ -1,5 +1,3 @@
-# DevOps_CI_CD_Assignment7 
->1.Login and configure Jenkins server on your system. Configure Docker for Jenkins pipeline. 
->2.Architect a simple calculator application that supports addition, subtraction and product of 
-two positive integers.
+# Adding Documentation to Your Website
+> Writing and maintaining documentation can feel daunting. However, every document you write can help tens of thousands of your customers get their queries answered without needing human help.
 
