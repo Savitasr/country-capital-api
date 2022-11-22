@@ -40,4 +40,4 @@ Markdown: Syntax
     *   [Backslash Escapes](#backslash)
     *   [Automatic Links](#autolink)
 
-http://images.google.com/images?num=30&amp;q=larry+bird
+[http://images.google.com/images?num=30&amp;q=larry+bird](https://github.com/images/logo.png)
