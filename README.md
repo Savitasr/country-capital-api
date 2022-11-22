@@ -1,12 +1,23 @@
-# Organizing information with tables
+# The Algorithms - Java
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-* This is the first list item.
-* Here's the second list item.
 
-    I need to add another paragraph below the second list item.
+[![Build](https://github.com/TheAlgorithms/Java/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/TheAlgorithms/Java/actions/workflows/build.yml)
+[![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square)](https://discord.gg/c7MnfGFGa6)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/TheAlgorithms/Java)
 
-* And here's the third list item.
-> This is a blockquote
-> * This is a list item within a blockquote
-> * This is a list item within a blockquote
-> * This is a list item within a blockquote
+
+You can run and edit the algorithms, or contribute to them using Gitpod.io (a free online development environment) with a single click.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TheAlgorithms/Java)
+
+### All algorithms are implemented in Java (for educational purposes)
+These implementations are intended for learning purposes. As such, they may be less efficient than the Java standard library.
+
+## Contribution Guidelines
+Please read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute to this project.
+
+## Community Channel
+We're on [Gitter](https://gitter.im/TheAlgorithms)! Come join us.
+
+## Algorithms
+Our [directory](DIRECTORY.md) has the full list of applications.
